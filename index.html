@@ -1,0 +1,19 @@
+---
+layout: default
+title: Native Haus / Paper Goods for the Language of Your Heart
+---
+
+<section class="container NewStuff">
+  {% for post in site.posts %}
+  	{% if post.isnew contains 'true' %}
+    <div class="half new Product">
+    	<a href="{{ post.url }}">
+    		<img src="{{ post.img }}" class="Product-image">
+    		<div class="Product-title">{{ post.title }}</div>
+    		<hr class="hr hr--purple">
+				<div class="rokkitt Product-price">{{ post.price }}</div>
+    	</a>
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>

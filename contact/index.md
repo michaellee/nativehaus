@@ -1,0 +1,11 @@
+---
+layout: about
+title: Contact / Native Haus
+---
+
+<h2 class="rokkitt">get in touch</h2>
+<hr class="hr hr--red mb1">
+
+We'd love to hear from you! If you have questions, would like something custom or just want to get in touch, click the button below.
+
+<a href="mailto:nativehaus@gmail.com?Subject=Hello%20native%20haus!" class="button button--green">contact native haus</a>
