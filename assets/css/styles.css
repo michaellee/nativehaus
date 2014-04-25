@@ -213,7 +213,9 @@ a {
 
 .SiteFooter-menu {
   padding-top: 2rem;
-  margin-left: 1rem; }
+  margin-left: 0.5rem; }
+  .SiteFooter-menu li {
+    margin-left: 0.5rem; }
 
 .Product {
   margin-bottom: 3rem;
@@ -270,3 +272,8 @@ a {
   .button--blue:hover {
     background: #1b93d4;
     color: white; }
+
+.button--small {
+  font-size: 0.75em;
+  line-height: 1.75em;
+  padding: 0px 0.625em; }

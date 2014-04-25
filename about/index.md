@@ -19,5 +19,3 @@ Michael's Korean and German (and hand-writing) isn't that good so he didn't make
 Native Haus was birthed from this lack of paper goods in languages of our heart. Languages that we may not be proficient in but have loved ones who speak it.
 
 Sue brings her creativity, eye for design and nice hand-writing, while Michael brings his illustration and web skills to Native Haus.
-
-Subscribe to our newsletter to stay in the loop of our latest creations.
