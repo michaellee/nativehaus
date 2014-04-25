@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<section class="container">
+<h2 class="rokkitt">{{ page.title }}</h2>
+<hr class="hr hr--red mb1">
+<div class="half">
+	<img src="{{ page.img }}" class="Product-image">
+</div>
+<div class="half">
+	<div><strong>front:</strong> {{ page.front }}</div>
+	{% if page.inside %}<div><strong>inside:</strong> {{ page.inside }}</div>{% endif %}
+	<div class="mb1"><strong>language:</strong> {{ page.language }}</div>
+	<p class="mb1">{{ page.details }}</p>
+	{{ content }}
+	<div class="rokkitt Product-price">{{ page.price }}</div>
+</div>
+</section>

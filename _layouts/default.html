@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/styles.css">
+
+</head>
+<body>
+  <header class="container SiteHeader">
+    <a href="{{site.url}}/" class="Logo">Native Haus</a>
+    <h2 class="rokkitt Slogan">paper goods for the language of your heart</h2>
+    <hr class="hr hr--red center">
+    <nav class="menu SiteHeader-menu">
+      <ul>
+        <li><a href="{{site.url}}/about">about</a></li>
+        <li><a href="{{site.url}}/cards">cards</a></li>
+        <li><a href="{{site.url}}/banners">banners</a></li>
+        <li><a href="{{site.url}}/contact">contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer class="SiteFooter container">
+    <div class="border"></div>
+    <div class="inline SiteFooter-copy">&copy; 2014 <a href="{{#site.url}}">native haus</a></div>
+    <nav class="inline menu SiteFooter-menu">
+      <ul>
+        <li><a href="https://www.facebook.com/nativehaus" target="_blank">facebook</a></li>
+        <li><a href="http://instagram.com/nativehaus" target="_blank">instagram</a></li>
+      </ul>
+    </nav>
+  </footer>
+</body>
+</html>

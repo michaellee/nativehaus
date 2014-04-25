@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<section class="container Cards">
+	<h2 class="rokkitt">cards</h2>
+	<hr class="hr hr--red mb1">
+	{% for post in site.posts %}
+  	{% if post.categories contains 'cards' %}
+			<div class="half {% if post.isnew contains 'true' %}new{% endif %} Product">
+				<a href="{{ post.url }}">
+					<img src="{{ post.img }}" class="Product-image">
+					<div class="Product-title">{{ post.title }}</div>
+					<hr class="hr hr--purple">
+					<div class="rokkitt Product-price">{{ post.price }}</div>
+				</a>
+			</div>
+  	{% endif %}
+	{% endfor %}
+</section>

@@ -1,0 +1,6 @@
+name: Native Haus
+markdown: redcarpet
+pygments: true
+
+permalink: /:categories/:title
+baseurl: /
