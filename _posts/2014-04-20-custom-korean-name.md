@@ -2,7 +2,7 @@
 layout: post
 title:  "custom korean name banner"
 categories: banners
-price: "$20.00"
+price: "$15.00"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/banners/thumbnails/name-banner-thumbnail.jpg"
 isnew: "true"
 front: "name in korean"
