@@ -10,3 +10,5 @@ inside: "blank"
 language: "korean"
 details: "One 4&frac14;″ x 5&frac12;″ folded card paired with a white envelope."
 ---
+
+<a href="https://gum.co/Wowp" class="button button--green">buy now</a> <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
