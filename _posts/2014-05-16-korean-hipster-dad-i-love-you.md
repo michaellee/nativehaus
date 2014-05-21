@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hipster Dad I Love You in Korean"
+categories: cards
+price: "$3.50"
+img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/mom.jpg"
+isnew: "true"
+front: "아빠 I Love You (Dad I Love You)"
+inside: "blank"
+language: "korean"
+details: "One 4&frac14;″ x 5&frac12;″ folded card paired with a white envelope."
+---
