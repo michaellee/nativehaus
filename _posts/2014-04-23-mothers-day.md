@@ -4,7 +4,7 @@ title:  "mom i love you"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/mom.jpg"
-isnew: "true"
+isnew: "false"
 front: "엄마 사랑해요 (mom i love you)"
 inside: "blank"
 language: "korean"

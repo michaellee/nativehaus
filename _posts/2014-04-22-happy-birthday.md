@@ -4,7 +4,7 @@ title:  "happy birthday"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/birthday.jpg"
-isnew: "true"
+isnew: "false"
 front: "생일축하합니다 (happy birthday)"
 inside: "blank"
 language: "korean"
