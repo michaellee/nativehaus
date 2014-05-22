@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Hipster Dad I Love You in Korean"
+title:  "hipster dad"
 categories: cards
 price: "$3.50"
-img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/mom.jpg"
+img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/hipster-dad-thumbnail.jpg"
 isnew: "true"
 front: "아빠 I Love You (Dad I Love You)"
 inside: "blank"
