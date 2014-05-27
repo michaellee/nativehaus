@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "happy birthday"
+title:  "생일축하합니다 (happy birthday - korean)"
 categories: cards
 price: "$3.50"
-img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/birthday.jpg"
+img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/k-happybirthday.jpg"
 isnew: "false"
 front: "생일축하합니다 (happy birthday)"
 inside: "blank"

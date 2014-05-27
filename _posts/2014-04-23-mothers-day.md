@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "mom i love you"
+title:  "엄마 사랑해요 (mom i love you - korean)"
 categories: cards
 price: "$3.50"
-img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/mom.jpg"
+img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/k-mom-iloveyou.jpg"
 isnew: "false"
 front: "엄마 사랑해요 (mom i love you)"
 inside: "blank"
