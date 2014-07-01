@@ -47,7 +47,7 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
     clear: left; }
   .half:last-child {
     margin-right: 0; }
-  @media screen and (min-width: 760px) {
+  @media screen and (min-width: 761px) {
     .half {
       float: left;
       display: block;
@@ -63,7 +63,7 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
   width: 100%; }
   .tenth:last-child {
     margin-right: 0; }
-  @media screen and (min-width: 760px) {
+  @media screen and (min-width: 761px) {
     .tenth {
       margin-left: 8.5298%;
       float: left;
@@ -204,8 +204,9 @@ a {
     margin: 1rem 0 0; }
     .SiteHeader-menu li a {
       display: block; }
-  @media screen and (min-width: 760px) {
+  @media screen and (min-width: 761px) {
     .SiteHeader-menu li {
+      display: inline-block;
       margin: 0 0 0 2rem; } }
 
 .Slogan {
