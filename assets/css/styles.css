@@ -200,7 +200,13 @@ a {
   font-size: 1.125rem;
   margin: 1.25rem 0 0; }
   .SiteHeader-menu li {
-    margin: 0 0 0 2rem; }
+    display: block;
+    margin: 1rem 0 0; }
+    .SiteHeader-menu li a {
+      display: block; }
+  @media screen and (min-width: 760px) {
+    .SiteHeader-menu li {
+      margin: 0 0 0 2rem; } }
 
 .Slogan {
   font-size: 1.5rem;
