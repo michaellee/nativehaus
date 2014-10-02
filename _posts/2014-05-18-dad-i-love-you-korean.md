@@ -4,7 +4,6 @@ title:  "아빠 사랑해요 (dad i love you - korean)"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/k-dad-iloveyou.jpg"
-isnew: "true"
 front: "아빠 사랑해요 (dad i love you)"
 inside: "blank"
 language: "korean"
