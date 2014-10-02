@@ -4,7 +4,6 @@ title:  "papá te quiero (dad i love you - spanish)"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/s-dad-iloveyou.jpg"
-isnew: "true"
 front: "papá te quiero (dad i love you)"
 inside: "blank"
 language: "spanish"
