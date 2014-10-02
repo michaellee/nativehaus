@@ -4,7 +4,6 @@ title:  "할아버지 happy father's day (grandpa happy father's day - korean)"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/c-grandpa-fathersday.jpg"
-isnew: "true"
 front: "할아버지 happy father's day (grandpa happy father's day)"
 inside: "blank"
 language: "korean"
