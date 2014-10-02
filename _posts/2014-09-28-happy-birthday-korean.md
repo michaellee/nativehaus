@@ -3,7 +3,7 @@ layout: post
 title:  "Happy Birthday in Korean Handlettered Greeting Card (생일축하합니다)"
 categories: cards
 price: "$4.50"
-img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/c-grandpa-fathersday.jpg"
+img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fall2014/birthday.jpg"
 isnew: "true"
 front: "생일축하합니다 - Happy Birthday"
 inside: "blank"
