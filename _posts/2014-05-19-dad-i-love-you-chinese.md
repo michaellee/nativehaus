@@ -4,7 +4,6 @@ title:  "爸爸 i love you (dad i love you - chinese)"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/c-papa-iloveyou.jpg"
-isnew: "true"
 front: "爸爸 i love you (dad i love you)"
 inside: "blank"
 language: "chinese"
