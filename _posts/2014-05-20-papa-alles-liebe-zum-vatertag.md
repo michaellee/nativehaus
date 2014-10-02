@@ -4,7 +4,6 @@ title:  "papa alles liebe zum vatertag (dad happy father's day - german)"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/g-papa-fathersday.jpg"
-isnew: "true"
 front: "papa alles liebe zum vatertag (dad happy father's day)"
 inside: "blank"
 language: "german"
