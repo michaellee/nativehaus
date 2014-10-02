@@ -4,7 +4,6 @@ title:  "아빠 i love you (dad i love you - korean/hipster)"
 categories: cards
 price: "$3.50"
 img: "https://dl.dropboxusercontent.com/u/1228961/nativehaus/cards/fathersday2014/k-hipsterpapa-iloveyou.jpg"
-isnew: "true"
 front: "아빠 i love you (dad i love you)"
 inside: "blank"
 language: "korean"
